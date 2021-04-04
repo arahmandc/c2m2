@@ -6,7 +6,7 @@
 }*/
 
 .gallery-section {
-    width: 100%;
+    width: 90%;
     padding: 60px 0;
 }
 
@@ -52,13 +52,13 @@
     transform: scale(1.4) rotate(15deg);
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 760px) {
     .gallery-section .image {
         flex: 33.33%;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 668px) {
     .gallery-section .image {
         flex: 50%;
     }
