@@ -1,1 +1,1 @@
-http://c2m2.boiledbhoot.org/
+arahmandc.github.io/c2m2
